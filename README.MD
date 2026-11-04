@@ -23,7 +23,7 @@ Shows total job count, median salary and the most common job titles. A slicer fi
 ### Page 2: Job title drill-through
 Opens from the overview for one selected job title. Shows salary range, work-from-home share, top hiring platforms and a map of job locations.
 
-![Page 2](images\pr1_pg2.png)
+![Page 2](images/pr1_pg2.png)
 
 
 ## File
